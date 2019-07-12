@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.katti.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\NikoS\\Desktop\\NikoS\\Unity\\Katti\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Katti [Testing]"
+        }
+      }
+    }
+  ]
+}
